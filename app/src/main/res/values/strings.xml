@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BaseAdapterII</string>
+    <string name="subject">Subject</string>
+    <string name="roll_no">Roll No.</string>
+    <string name="name">Name</string>
+    <string name="txt">Add Student..</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_roll">Enter Roll No.</string>
+    <string name="enter_subject">Enter Subject</string>
+    <string name="add">Add</string>
+    <string name="add_item">Add Item</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_student">Update Student..</string>
+    <string name="update">Update</string>
+</resources>
